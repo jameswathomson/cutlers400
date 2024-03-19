@@ -12,7 +12,10 @@ a:link, a:visited {
 	text-decoration: none;
 	display: inline-block;
 	margin-bottom: 1px;
-	width: 200px;
+	width: 80%;
+}
+img {
+	width: 83%;
 }
 a {
 	color: #fff;
