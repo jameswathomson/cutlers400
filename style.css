@@ -1,10 +1,20 @@
 body {
 	background-color: #272525;
 	color: #fff;
+	font-family: arial;
+	text-align: center;
 }
-a:link {
-	color: #fff;
+a:link, a:visited {
+	background-color: #5F5C5C;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin-bottom: 1px;
+	width: 200px;
 }
 a {
 	color: #fff;
+	text-decoration: none;
 }
